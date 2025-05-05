@@ -1,0 +1,19 @@
+
+{
+  "name": "member-management-web",
+  "version": "1.0.0",
+  "main": "src/App.js",
+  "dependencies": {
+    "@mui/material": "^5.0.0",
+    "firebase": "^9.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-scripts": "4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}

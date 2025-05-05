@@ -1,0 +1,15 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 600px) {
+  .MuiTypography-root {
+    font-size: 18px;
+  }
+  .MuiButton-root {
+    width: 100%;
+  }
+}
